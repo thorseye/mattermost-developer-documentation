@@ -6,7 +6,7 @@
     Linux requires the X11 developement libraries and `libpng` to build native Node modules.
 
     ```sh
-    sudo apt install nodejs git python3 g++ libX11-devel libXtst-devel libpng-devel`
+    sudo dnf install nodejs git python3 g++ libX11-devel libXtst-devel libpng-devel
     ```
 
 #### Notes
